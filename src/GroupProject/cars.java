@@ -13,6 +13,7 @@ public interface cars {
     public void CarTopSpeed();
 
 
+    public void CarWheelSize();
 
 
 }

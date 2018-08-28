@@ -9,6 +9,10 @@ public class CarsTeste {
         Car1.Carpower();
         Car1.CarTopSpeed();
         Car1.CarTransmission();
+        Car1.CarWheelSize();
+
+
+
 
     }
 

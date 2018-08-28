@@ -24,4 +24,10 @@ public class Corvette implements cars {
     public void CarTopSpeed() {
         System.out.println("Corvette top speed is 200mph");
     }
+
+
+    public void CarWheelSize() {
+        System.out.println("wheel size must be 20 inchs ");
+    }
 }
+
