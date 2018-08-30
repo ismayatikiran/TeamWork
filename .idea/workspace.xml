@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="404dde46-63ec-4666-a148-e9c271d5d5fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/src/GroupProject/CarsTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject/CarsTeste.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/out/production/GroupWork/GroupProject/CarsTeste.class" beforeDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/../Test" beforeDir="false" afterPath="$PROJECT_DIR$/../Test" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,34 +21,54 @@
     <session id="953425687">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< Updated upstream
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="2" />
+=======
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="4" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< Updated upstream
           <entry key="java" value="574" />
+=======
+          <entry key="java" value="721" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< Updated upstream
           <entry key="JAVA" value="574" />
+=======
+          <entry key="JAVA" value="721" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
+<<<<<<< Updated upstream
+=======
+          <entry key="git.branch.checkout.local" value="2" />
+>>>>>>> Stashed changes
           <entry key="git.branch.create.new" value="1" />
           <entry key="git.checkout.as.new.branch" value="1" />
         </counts>
@@ -53,6 +77,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< Updated upstream
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GroupProject/cars.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,6 +91,12 @@
         <entry file="file://$PROJECT_DIR$/src/GroupProject/Corvette.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="281">
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GroupProject/Corvette.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+>>>>>>> Stashed changes
               <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
             </state>
           </provider>
@@ -74,8 +105,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GroupProject/CarsTeste.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="225">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+=======
+            <state relative-caret-position="106">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -95,7 +131,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< Updated upstream
         <entry key="$PROJECT_DIR$" value="master" />
+=======
+        <entry key="$PROJECT_DIR$" value="branch2" />
+>>>>>>> Stashed changes
       </map>
     </option>
   </component>
@@ -105,11 +145,18 @@
         <option value="$PROJECT_DIR$/src/GroupProject/cars.java" />
         <option value="$PROJECT_DIR$/src/GroupProject/Corvette.java" />
         <option value="$PROJECT_DIR$/src/GroupProject/CarsTeste.java" />
+        <option value="$PROJECT_DIR$/src/Loops/Test.java" />
+        <option value="$PROJECT_DIR$/src/GroupProject/Loops/forLoop.java" />
+        <option value="$PROJECT_DIR$/src/Loops/ForLoop.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< Updated upstream
     <option name="y" value="57" />
+=======
+    <option name="y" value="52" />
+>>>>>>> Stashed changes
     <option name="width" value="1280" />
     <option name="height" value="641" />
   </component>
@@ -119,7 +166,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< Updated upstream
       <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+>>>>>>> Stashed changes
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,12 +193,25 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< Updated upstream
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535515956767" />
+=======
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535593187353" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+>>>>>>> Stashed changes
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,7 +225,11 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Application.Test">
+=======
+  <component name="RunManager" selected="Application.CarsTeste">
+>>>>>>> Stashed changes
     <configuration name="CarsTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GroupProject.CarsTeste" />
       <module name="GroupWork" />
@@ -175,6 +243,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
+=======
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.ForLoop" />
+      <module name="GroupWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> Stashed changes
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops.Test" />
       <module name="GroupWork" />
@@ -188,12 +272,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <list>
       <item itemvalue="Application.CarsTeste" />
       <item itemvalue="Application.Test" />
+=======
+    <configuration name="forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject.Loops.forLoop" />
+      <module name="GroupWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GroupProject.Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CarsTeste" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.forLoop" />
+      <item itemvalue="Application.ForLoop" />
+>>>>>>> Stashed changes
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.CarsTeste" />
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.forLoop" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.CarsTeste" />
       </list>
@@ -213,9 +322,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< Updated upstream
     <frame x="0" y="57" width="1280" height="641" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+=======
+    <frame x="0" y="52" width="1280" height="641" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -229,10 +345,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969034" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969034" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32969034" />
+>>>>>>> Stashed changes
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -247,6 +370,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Loops/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/GroupProject/Loops/forLoop.java" />
+    <entry file="file://$PROJECT_DIR$/src/Loops/ForLoop.java" />
     <entry file="file://$PROJECT_DIR$/src/GroupProject/cars.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -256,24 +382,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GroupProject/Corvette.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="281">
+=======
+        <state relative-caret-position="300">
+>>>>>>> Stashed changes
           <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GroupProject/CarsTeste.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+=======
+        <state relative-caret-position="106">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GroupWork</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
