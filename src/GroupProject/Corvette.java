@@ -29,5 +29,12 @@ public class Corvette implements cars {
     public void CarWheelSize() {
         System.out.println("wheel size must be 20 inchs ");
     }
+
+
+    public void CarTraction() {
+        System.out.println("must be rear wheel drive");
+    }
+
+
 }
 

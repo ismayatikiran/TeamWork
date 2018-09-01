@@ -15,5 +15,7 @@ public interface cars {
 
     public void CarWheelSize();
 
+    public void CarTraction();
+
 
 }
